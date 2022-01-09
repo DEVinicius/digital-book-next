@@ -6,4 +6,5 @@ export const Container = styled.div`
     width: 30rem;
 
     border: 1px solid ${colors.black};
+    background: rgba(196,196,196,0.7);
 `;
