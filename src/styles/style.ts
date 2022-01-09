@@ -9,7 +9,7 @@ export const GlobalStyle =  createGlobalStyle `
     }
     body {
         font-family: "Poppins", sans-serif;
-        background: url();
+        background: url("./Background.png");
     }
     button {
         cursor: pointer;
