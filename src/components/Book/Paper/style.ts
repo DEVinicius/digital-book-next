@@ -7,4 +7,6 @@ export const Container = styled.div`
 
     border: 1px solid ${colors.black};
     background: rgba(196,196,196,0.7);
+
+    border-radius: 0.25rem;
 `;

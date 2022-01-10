@@ -1,6 +1,9 @@
-import { useEffect, useState } from "react";
-import { useWindowSize } from "../../../hooks/useWindowSize";
+import { ReactNode } from "react";
 import { Container } from "./style";
+
+interface IPaper {
+  pageContent: ReactNode;
+}
 
 export function Paper() {
   return (
